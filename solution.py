@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from scipy.stats import kstes
+from scipy import stats
 
 
 chat_id = 740849508 # Ваш chat ID, не меняйте название переменной
